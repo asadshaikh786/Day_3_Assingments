@@ -1,0 +1,15 @@
+''This HTML page is a well-structured example that demonstrates key HTML features including tables, forms, block/inline elements, iframes, and the use of CSS classes. It uses internal CSS for styling and organizes content in sections for clarity and design.'''
+  
+
+This HTML page is a complete structured web page that includes:
+
+1.Table – Displays team members with name, role, and contact using <table>, <thead>, and <tbody>.
+
+2.Form – A contact form with fields for name, email, and message using <form>, <input>, and <textarea>.
+
+3.Block vs Inline – Shows layout difference using <div> (block) and <span> (inline) with comments explaining their behavior
+
+4.Iframe – Embeds a Google Map inside the page using <iframe>.
+
+5.HTML Classes – Uses CSS classes like .section, .highlight, .box, .inline, and .block to style and organize content.
+
